@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31593" started-at="2020-06-28T12:43:56 EET" finished-at="2020-06-28T12:44:27 EET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31593" started-at="2020-06-28T12:43:56 EET" finished-at="2020-06-28T12:44:27 EET">
+      <class name="hepsiburada.DemoHomework.Homepage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:hepsiburada.DemoHomework.Homepage@23bb8443]" name="initialize" is-config="true" duration-ms="11109" started-at="2020-06-28T12:43:56 EET" finished-at="2020-06-28T12:44:07 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="goAccount()[pri:0, instance:hepsiburada.DemoHomework.Homepage@23bb8443]" name="goAccount" duration-ms="4017" started-at="2020-06-28T12:44:07 EET" finished-at="2020-06-28T12:44:11 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goAccount -->
+        <test-method status="PASS" signature="goAraundOnProducts()[pri:0, instance:hepsiburada.DemoHomework.Homepage@23bb8443]" name="goAraundOnProducts" duration-ms="14448" started-at="2020-06-28T12:44:11 EET" finished-at="2020-06-28T12:44:25 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goAraundOnProducts -->
+        <test-method status="PASS" signature="goBasket()[pri:0, instance:hepsiburada.DemoHomework.Homepage@23bb8443]" name="goBasket" duration-ms="1961" started-at="2020-06-28T12:44:25 EET" finished-at="2020-06-28T12:44:27 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goBasket -->
+        <test-method status="PASS" signature="verifyProducts()[pri:0, instance:hepsiburada.DemoHomework.Homepage@23bb8443]" name="verifyProducts" duration-ms="2" started-at="2020-06-28T12:44:27 EET" finished-at="2020-06-28T12:44:27 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProducts -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hepsiburada.DemoHomework.Homepage@23bb8443]" name="teardown" is-config="true" duration-ms="0" started-at="2020-06-28T12:44:27 EET" finished-at="2020-06-28T12:44:27 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- hepsiburada.DemoHomework.Homepage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
